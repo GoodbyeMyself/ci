@@ -21,7 +21,7 @@
     </ul>
     <h3>Ecosystem</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
+      <li>测试 自动化构建 - 》 自动化部署</li>
     </ul>
   </div>
 </template>
